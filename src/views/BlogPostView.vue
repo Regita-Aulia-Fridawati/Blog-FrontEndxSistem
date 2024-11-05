@@ -17,10 +17,10 @@ import quote from '@/components/quote.vue';
             </div>
             <div class="basis-1/3 mt-3"></div>
                 <h3 class="text-h1 font-bold ">Step-by-step guide to choosing great font pairs</h3>
-            </div>
-            <div class="basis-1/3 flex mt-3 space-x-3">
-                <img src="@/assets/images/misc/stup.png" class="aspect-[1/1]"/>
-                <h4 class="text-h4 font-bold">Startup</h4>
+                <div class="basis-1/3 flex mt-3 space-x-3">
+                    <img src="@/assets/images/misc/stup.png" class="aspect-[1/1]"/>
+                    <h4 class="text-h4 font-bold">Startup</h4>
+                </div>
             </div>
         <div >
          <img src="@/assets/images/misc/foto9.png" class="item-center px-[80px] mt-10"/>
